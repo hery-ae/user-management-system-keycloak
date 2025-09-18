@@ -145,7 +145,7 @@
                     </pool>
                     <security>
                         <user-name>postgres</user-name>
-                        <password>local5432</password>
+                        <password>YOUR_DB_PASSWORD</password>
                     </security>
                 </datasource>
                 <drivers>
